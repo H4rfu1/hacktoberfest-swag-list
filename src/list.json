@@ -11,20 +11,20 @@
         "link": "https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/"
       },
       {
-        "organization": "Appwrite",
-        "org_url": "https://appwrite.io/",
-        "tags": ["Tshirt", "Stickers", "Mug"],
-        "description": "Appwrite is giving away ton of swags this year with various levels of contribution! 1 contribution: OG Appwrite sticker pack, 2 contributions: OG Appwrite sticker pack + Limited Edition Hacktoberfest sticker pack, 3 contributions: OG Appwrite sticker pack + Limited Edition Hacktoberfest sticker pack + Mug, 4 contributions or more: Limited Edition Appwrite Hacktoberfest T-shirt + Hacktoberfest Sticker pack + OG Appwrite Sticker Pack + Mug",
-        "no_of_prs": 1,
-        "link": "https://hacktoberfest.appwrite.io/"
-      },
-      {
         "organization": "Appsmith",
         "org_url": "https://app.appsmith.com/",
         "tags": ["Tshirt", "Stickers", "Bottle", "Hoodie"],
         "description": "Appsmith is giving away ton of swags this year with various levels of contribution! 1 Merged PR:Appsmith Stickers, 2 Merged PR:Appsmith Stickers + Water Bottle, 3 contributions: Appsmith Stickers + Water Bottle + Appsmith T-Shirt, 4 Merged PR or more: Appsmith Stickers + Water Bottle + Appsmith Hoodie + Appsmith Surprise Box",
         "no_of_prs": 1,
         "link": "https://hacktoberfest.appsmith.com/"
+      },
+      {
+        "organization": "Appwrite",
+        "org_url": "https://appwrite.io/",
+        "tags": ["Tshirt", "Stickers", "Mug"],
+        "description": "Appwrite is giving away ton of swags this year with various levels of contribution! 1 contribution: OG Appwrite sticker pack, 2 contributions: OG Appwrite sticker pack + Limited Edition Hacktoberfest sticker pack, 3 contributions: OG Appwrite sticker pack + Limited Edition Hacktoberfest sticker pack + Mug, 4 contributions or more: Limited Edition Appwrite Hacktoberfest T-shirt + Hacktoberfest Sticker pack + OG Appwrite Sticker Pack + Mug",
+        "no_of_prs": 1,
+        "link": "https://hacktoberfest.appwrite.io/"
       },
       {
         "organization": "ArchivesSpace",
@@ -53,14 +53,6 @@
         "link": "https://webkul.com/meetups/hacktober-fest-bagisto-2021/"
       },
       {
-        "organization": "Bridgecrew",
-        "org_url": "https://bridgecrew.io/",
-        "tags": ["Tshirt", "Stickers"],
-        "description": "Bridgecrew is giving away swag for Hacktoberfest contributors, like the T-shirts you’ll see team Bridgecrew wearing on videos and at events, plus stickers!Submit one contribution and you’ll receive a super ghoul sticker pack. Submit two or more contributions and you’ll receive a swag pack complete with stickers and a wicked Bridgecrew t-shirt.",
-        "no_of_prs": 1,
-        "link": "https://bridgecrew.io/blog/happy-hacktoberfest-2021/"
-      },
-      {
         "organization": "Bitrise",
         "org_url": "https://www.bitrise.io/",
         "tags": ["Plushie", "Socks", "Magnet"],
@@ -75,6 +67,14 @@
         "description": "We are delighted to announce that Boa Constrictor will participate in Hacktoberfest 2021. Open source software is vital for our industry, and we strongly support efforts like Hacktoberfest to encourage folks to contribute to open source projects. Many thanks to Digital Ocean, Appwrite, Intel, and DeepSource for sponsoring Hacktoberfest again this year.",
         "no_of_prs": 1,
         "link": "https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/"
+      },
+      {
+        "organization": "Bridgecrew",
+        "org_url": "https://bridgecrew.io/",
+        "tags": ["Tshirt", "Stickers"],
+        "description": "Bridgecrew is giving away swag for Hacktoberfest contributors, like the T-shirts you’ll see team Bridgecrew wearing on videos and at events, plus stickers!Submit one contribution and you’ll receive a super ghoul sticker pack. Submit two or more contributions and you’ll receive a swag pack complete with stickers and a wicked Bridgecrew t-shirt.",
+        "no_of_prs": 1,
+        "link": "https://bridgecrew.io/blog/happy-hacktoberfest-2021/"
       }
     ],
     "C": [
@@ -95,20 +95,20 @@
         "link": "https://cd.foundation/hacktoberfest/"
       },
       {
-        "organization": "Codedamn",
-        "org_url": "https://codedamn.com/",
-        "tags": ["Tshirt"],
-        "description": "Codedamn brings you a collection of projects to build in #hacktoberfest this year. Complete a single project, submit it on our GitHub repository, and win a t-shirt for free!",
-        "no_of_prs": 1,
-        "link": "https://codedamn.com/projects"
-      },
-      {
         "organization": "CodeSee",
         "org_url": "https://www.oss-port.com/swag/",
         "tags": ["Sweatshirt", "Tshirt", "Stickers"],
         "description": "As a participant Minimum of 4 successfull PRs to OSS port's repositories with a #hacktober-accepted tag can win Tshirts and stickers ",
         "no_of_prs": 4,
         "link": "https://www.oss-port.com/swag/"
+      },
+      {
+        "organization": "Codedamn",
+        "org_url": "https://codedamn.com/",
+        "tags": ["Tshirt"],
+        "description": "Codedamn brings you a collection of projects to build in #hacktoberfest this year. Complete a single project, submit it on our GitHub repository, and win a t-shirt for free!",
+        "no_of_prs": 1,
+        "link": "https://codedamn.com/projects"
       },
       {
         "organization": "Creative Tim",
@@ -121,12 +121,12 @@
     ],
     "D": [
       {
-        "organization": "DigitalOcean + Hacktoberfest Sponsors",
-        "org_url": "https://www.digitalocean.com/",
-        "tags": ["Tshirt", "Stickers"],
-        "description": "4 merged PRs in any of the participating Github/Gitlab repositories. The repository must have the hacktoberfest topic and the PR must either be merged or has to be labeled 'hacktoberfest-accepted' by the maintainer.Get the official Hacktoberfest 2021 tshirt and some amazing set of stickers from the sponsors.",
-        "no_of_prs": 4,
-        "link": "https://hacktoberfest.digitalocean.com/"
+        "organization": "DagsHub",
+        "org_url": "https://dagshub.com/blog/hacktoberfest-x-dagshub-2/",
+        "tags": ["Stickers", "Tshirt"],
+        "description": "Get a T-shirt if you create 10+ PRs and stickers if you create 2+ PRs",
+        "no_of_prs": 2,
+        "link": "https://github.com/DAGsHub/audio-datasets/"
       },
       {
         "organization": "Datarequests.org",
@@ -137,14 +137,6 @@
         "link": "https://www.datarequests.org/blog/hacktoberfest-2021/"
       },
       {
-        "organization": "Dev.to",
-        "org_url": "https://dev.to/",
-        "tags": ["Profile Badge"],
-        "description": "Share your Hacktoberfest experience with #hacktoberfest and post on Dev will receive a limited edition Hacktoberfest 2021 Profile Badge. ",
-        "no_of_prs": 1,
-        "link": "https://dev.to/devteam/hacktoberfest-2021-is-here-4a3l"
-      },
-      {
         "organization": "DeepSource",
         "org_url": "https://deepsource.io/",
         "tags": ["Swag"],
@@ -153,20 +145,12 @@
         "link": "https://deepsource.io/hacktoberfest/"
       },
       {
-        "organization": "DevICT",
-        "org_url": "https://www.devict.org/",
-        "tags": ["Stickers"],
-        "description": "Submit two pull requests to qualifying Wichita projects during the month of October and receive stickers from us!",
-        "no_of_prs": 2,
-        "link": "https://devict-hacktoberfest.herokuapp.com/"
-      },
-      {
-        "organization": "DagsHub",
-        "org_url": "https://dagshub.com/blog/hacktoberfest-x-dagshub-2/",
-        "tags": ["Stickers", "Tshirt"],
-        "description": "Get a T-shirt if you create 10+ PRs and stickers if you create 2+ PRs",
-        "no_of_prs": 2,
-        "link": "https://github.com/DAGsHub/audio-datasets/"
+        "organization": "Dev.to",
+        "org_url": "https://dev.to/",
+        "tags": ["Profile Badge"],
+        "description": "Share your Hacktoberfest experience with #hacktoberfest and post on Dev will receive a limited edition Hacktoberfest 2021 Profile Badge. ",
+        "no_of_prs": 1,
+        "link": "https://dev.to/devteam/hacktoberfest-2021-is-here-4a3l"
       },
       {
         "organization": "DEVDOJO",
@@ -177,12 +161,28 @@
         "link": "https://devdojo.com/hacktoberfest"
       },
       {
+        "organization": "DevICT",
+        "org_url": "https://www.devict.org/",
+        "tags": ["Stickers"],
+        "description": "Submit two pull requests to qualifying Wichita projects during the month of October and receive stickers from us!",
+        "no_of_prs": 2,
+        "link": "https://devict-hacktoberfest.herokuapp.com/"
+      },
+      {
         "organization": "Devtron",
         "org_url": "https://devtron.ai/",
         "tags": ["Stickers", "Tshirt", "Diary", "Coaster"],
         "description": "We have exciting gifts for our contributors during Hacktoberfest celebrating Opensource. Each of your additional accepted PR to anyone of our Repos would give you more exciting giveaways. 1 Merged PR will get Stickers Pack + 1 T-Shirt, 2 Merged PR will get Stickers Pack + 1 Diary + 1 T-Shirt, 3 or 3+ Merged PR will get Stickers Pack + 1 Diary + 1 T-Shirt + 1 Coaster (Devtron Swag Pack), Special Prize (Most Innovative/Unique PR and Maximum number of PRs) will get Devtron Swag Pack + Surprise Box.",
         "no_of_prs": 1,
         "link": "https://github.com/devtron-labs/hacktoberfest2021"
+      },
+      {
+        "organization": "DigitalOcean + Hacktoberfest Sponsors",
+        "org_url": "https://www.digitalocean.com/",
+        "tags": ["Tshirt", "Stickers"],
+        "description": "4 merged PRs in any of the participating Github/Gitlab repositories. The repository must have the hacktoberfest topic and the PR must either be merged or has to be labeled 'hacktoberfest-accepted' by the maintainer.Get the official Hacktoberfest 2021 tshirt and some amazing set of stickers from the sponsors.",
+        "no_of_prs": 4,
+        "link": "https://hacktoberfest.digitalocean.com/"
       }
     ],
     "E": [
@@ -246,20 +246,20 @@
     ],
     "K": [
       {
-        "organization": "Kong",
-        "org_url": "https://konghq.com/",
-        "tags": ["Tshirt"],
-        "description": "If your Pull Request to Kong/kong was accepted, and it fixes a bug, adds functionality, or makes it significantly easier to use or understand Kong, congratulations! You are eligible to receive the very special Contributor T-shirt! Go ahead and fill out the Contributors Submissions form.",
-        "no_of_prs": 1,
-        "link": "https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt"
-      },
-      {
         "organization": "K6",
         "org_url": "https://k6.io/",
         "tags": ["Tshirt", "Stickers", "Mug", "Cap"],
         "description": "Contributors who merge one PR successfully to any of the K6 repositories will receive an awesome swag pack! The pack includes tshirt, tsickers, cap and a mug! Stocks are limited and are on a first come first serve basis only.",
         "no_of_prs": 1,
         "link": "https://k6.io/blog/hacktoberfest-at-k6/"
+      },
+      {
+        "organization": "Kong",
+        "org_url": "https://konghq.com/",
+        "tags": ["Tshirt"],
+        "description": "If your Pull Request to Kong/kong was accepted, and it fixes a bug, adds functionality, or makes it significantly easier to use or understand Kong, congratulations! You are eligible to receive the very special Contributor T-shirt! Go ahead and fill out the Contributors Submissions form.",
+        "no_of_prs": 1,
+        "link": "https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt"
       }
     ],
     "L": [
@@ -290,22 +290,6 @@
         "link": "https://mattermost.com/blog/hacktoberfest-2021/"
       },
       {
-        "organization": "Milvus",
-        "org_url": "https://milvus.io/",
-        "tags": ["Swag"],
-        "description": "Contributions of all kinds and from everyone are welcome. Simply file an issue stating your reason and plans for making the change, update CHANGELOG.md, and create a pull request to the current active branch. Make sure to mention the issue you filed in your PR description. Cheers!",
-        "no_of_prs": 1,
-        "link": "https://discuss.milvus.io/t/milvus-golang-issues-list-for-hacktoberfest-participants/99"
-      },
-      {
-        "organization": "MeiliSearch",
-        "org_url": "https://www.datarequests.org/",
-        "tags": ["Bottle", "Stickers"],
-        "description": "4 or more pull requests in any eligible repository, including one pull request in MeiliSearch eligible repositories",
-        "no_of_prs": 4,
-        "link": "https://blog.meilisearch.com/contribute-hacktoberfest-2021/"
-      },
-      {
         "organization": "Mayadata",
         "org_url": "https://mayadata.io/",
         "tags": ["Tshirt", "Swags", "Oculus VR", "Stickers"],
@@ -320,6 +304,22 @@
         "description": "By actively participating in Hacktober fest, you make Medusa more sustainable and help us progress quickly. Every single contribution matters, and you’ll get an appreciation gift for your time and effort: One pull request → Medusa sticker, Three pull requests → Medusa t-shirt, Build a Plugin (issues labeled with plugin) → Complete Medusa pack (t-shirt, hoodie, sticker)",
         "no_of_prs": 1,
         "link": "https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement"
+      },
+      {
+        "organization": "MeiliSearch",
+        "org_url": "https://www.datarequests.org/",
+        "tags": ["Bottle", "Stickers"],
+        "description": "4 or more pull requests in any eligible repository, including one pull request in MeiliSearch eligible repositories",
+        "no_of_prs": 4,
+        "link": "https://blog.meilisearch.com/contribute-hacktoberfest-2021/"
+      },
+      {
+        "organization": "Milvus",
+        "org_url": "https://milvus.io/",
+        "tags": ["Swag"],
+        "description": "Contributions of all kinds and from everyone are welcome. Simply file an issue stating your reason and plans for making the change, update CHANGELOG.md, and create a pull request to the current active branch. Make sure to mention the issue you filed in your PR description. Cheers!",
+        "no_of_prs": 1,
+        "link": "https://discuss.milvus.io/t/milvus-golang-issues-list-for-hacktoberfest-participants/99"
       },
       {
         "organization": "MindsDB",
@@ -389,6 +389,14 @@
     "R": [],
     "S": [
       {
+        "organization": "Sourcegraph",
+        "org_url": "https://sourcegraph.com/search",
+        "tags": ["Swag"],
+        "description": "For Hacktoberfest 2021, we are happy to share that we will be offering the first 50 successfully merged pull request contributors with a Sourcegraph swag package. We'll provide details to contributors directly.",
+        "no_of_prs": 1,
+        "link": "https://dev.to/sourcegraph/happy-hacktoberfest-from-sourcegraph-2dc3"
+      },
+      {
         "organization": "Stack Builders",
         "org_url": "https://www.stackbuilders.com/",
         "tags": ["Gift Cards"],
@@ -413,14 +421,6 @@
         "link": "https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021"
       },
       {
-        "organization": "Symbl.ai",
-        "org_url": "https://symbl.ai/",
-        "tags": ["Stickers", "T-shirts"],
-        "description": " Three or more open and valid pull requests to the repository.",
-        "no_of_prs": 3,
-        "link": "https://github.com/symblai/symbl-twilio-video-react"
-      },
-      {
         "organization": "Switchblade",
         "org_url": "https://switchblade.xyz/",
         "tags": ["Stickers"],
@@ -429,12 +429,12 @@
         "link": "https://github.com/SwitchbladeBot/switchblade/issues/1203"
       },
       {
-        "organization": "Sourcegraph",
-        "org_url": "https://sourcegraph.com/search",
-        "tags": ["Swag"],
-        "description": "For Hacktoberfest 2021, we are happy to share that we will be offering the first 50 successfully merged pull request contributors with a Sourcegraph swag package. We'll provide details to contributors directly.",
-        "no_of_prs": 1,
-        "link": "https://dev.to/sourcegraph/happy-hacktoberfest-from-sourcegraph-2dc3"
+        "organization": "Symbl.ai",
+        "org_url": "https://symbl.ai/",
+        "tags": ["Stickers", "T-shirts"],
+        "description": " Three or more open and valid pull requests to the repository.",
+        "no_of_prs": 3,
+        "link": "https://github.com/symblai/symbl-twilio-video-react"
       }
     ],
     "T": [
